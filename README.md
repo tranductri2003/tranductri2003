@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name](https://github.com/tranductri2003) 👋
+# Hi there, I'm [tranductri2003](https://github.com/tranductri2003) 👋
 
 I'm a passionate learner and enthusiast in the fields of Artificial Intelligence (AI) and Machine Learning (ML). Currently, I'm on a journey to master Python 🐍.
 
