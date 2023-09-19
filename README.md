@@ -1,4 +1,4 @@
-# Hi there, I'm [tranductri2003](https://github.com/tranductri2003) Nice to meet you !!! 👋👋👋
+# Hi there, I'm [Tri](https://github.com/tranductri2003) from Da Nang, Vietnam. Nice to meet you !!! 👋👋👋
 
 
 
