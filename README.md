@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on AI, ML
 - 📫 How to reach me: tranductri2003@gmail.com
+
 ![Snake animation]
 (https://raw.githubusercontent.com/tranductri2003/tranductri2003/output/github-contribution-grid-snake.svg)
 <!---
