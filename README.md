@@ -3,7 +3,7 @@
 
 <!-- Introduction -->
 <p align="center" style="font-size: 18px; color: #333;">
-  <span style="font-size: 20px; font-weight: bold;">Nice to meet you!</span> I'm passionate about coding and technology.
+  <span style="font-size: 24px; font-weight: bold; color: #ff69b4;">Nice to meet you!</span> I'm passionate about coding and technology.
 </p>
 
 <!-- Visitor Count -->
